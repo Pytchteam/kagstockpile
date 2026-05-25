@@ -1,0 +1,12 @@
+{
+  "name": "KAG Stockpile & Hardware Supplies",
+  "description": "Production-grade e-commerce and quote platform for building materials in Jamaica. Features include a Bundle Builder, Delivery Calculator, and Trade Club portal.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "E-Commerce",
+    "Quote Management",
+    "Logistics Tracking"
+  ]
+}
